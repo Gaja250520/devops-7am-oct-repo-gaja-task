@@ -1,2 +1,0 @@
-working in dev branch
-working in qa branch
